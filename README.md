@@ -23,19 +23,33 @@ This project demonstrates how to:
 ## 📁 Project Structure
 
 chat-app/
+
 ├── src/
+
 │ ├── main/
+
 │ │ ├── java/
+
 │ │ │ └── com/example/chat/
+
 │ │ │ ├── config/ # WebSocket configuration
+
 │ │ │ ├── controller/ # Message handling
+
 │ │ │ └── model/ # Message payload classes
+
 │ │ └── resources/
+
 │ │ ├── templates/ # Thymeleaf HTML files
+
 │ │ └── application.yml # App configs
+
 ├── .gitignore
+
 ├── mvnw / mvnw.cmd
+
 ├── pom.xml # Maven dependencies
+
 └── README.md
 
 ---
