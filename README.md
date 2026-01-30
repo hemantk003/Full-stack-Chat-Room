@@ -77,7 +77,7 @@ Build and run with Maven:
 mvn spring-boot:run
 Open in browser:
 
-http://localhost:8080/
+http://localhost:8080
 You should now be able to send and receive live chat messages! 🎉
 
 📝 How It Works
