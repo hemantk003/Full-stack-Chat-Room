@@ -38,7 +38,6 @@ chat-app/
 ├── pom.xml # Maven dependencies
 └── README.md
 
-
 ---
 
 ## 🛠 Prerequisites
